@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# OpenBUGS 3.2.3 documentation 
 
-You can use the [editor on GitHub](https://github.com/chjackson/openbugsdoc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+An archive of the documentation for the most recent version (3.2.3) of the [OpenBUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/openbugs/) software for Bayesian statistical modelling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [OpenBUGS User Manual](Manuals/Contents.html)
 
-### Markdown
+* [Examples volume 1](Examples/Volumei.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Examples volume 2](Examples/Volumeii.html)
 
-```markdown
-Syntax highlighted code block
+* [Examples volume 3](Examples/Volumeiii.html)
 
-# Header 1
-## Header 2
-### Header 3
+* [Ecology examples](Examples/VolumeEco.html)
 
-- Bulleted
-- List
+* [GeoBUGS manual](GeoBUGS/Manuals/Manual.html)
 
-1. Numbered
-2. List
+* [Reliability manual](Reliability/Manuals/Contents.html)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chjackson/openbugsdoc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Developer manual](Developer/Manual.html)
