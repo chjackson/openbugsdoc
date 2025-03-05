@@ -17,3 +17,12 @@ An archive of the documentation for the most recent version (3.2.3) of the [Open
 * [Reliability manual](Reliability/Manuals/Contents.html)
 
 * [Developer manual](Developer/Manual.html)
+
+
+# The BUGS Book 
+
+Material from "The BUGS Book: A Practical Introduction to Bayesian Analysis" (Lunn, Jackson, Best, Thomas, Spiegelhalter, 2012)
+
+* A comprehensive set of examples [.zip](bugsbook_examples.zip)
+
+* A small selection of exercises [.zip](bugsbook_exercises.zip)
